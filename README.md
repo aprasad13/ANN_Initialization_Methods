@@ -14,6 +14,8 @@ Training a neural network requires specifying an initial value of the weights. A
 - Don't intialize to values that are too large
 - He initialization works well for networks with ReLU activations.
 
+Click on the [Jupiter Notebook](https://github.com/aprasad13/Deep_Learning_Initialization_Methods/blob/master/Weight_Initialization_Performance.ipynb) to access the detailed Code and Visualizations 
+
 ### Performance
 
 | Model                                         | Train accuracy  | Problem/Comment             | 
